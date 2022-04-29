@@ -1,0 +1,15 @@
+============[ Multination ]============
+ Dazn:                                  No
+ HotStar:                               No
+ Disney+:                               Yes (Region: SG)
+ Netflix:                               Yes (Region: SG)
+ YouTube Premium:                       Yes (Region: SG)
+ Amazon Prime Video:                    Yes (Region: SG)
+ TVBAnywhere+:                          Yes
+ iQyi Oversea Region:                   SG
+ Viu.com:                               Yes (Region: SG)
+ YouTube CDN:                           Singapore 
+ Netflix Preferred CDN:                 Associated with [Nato Research] in [Singapore ]
+ Spotify Registration:                  No
+ Steam Currency:                        SGD
+=======================================

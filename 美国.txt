@@ -1,0 +1,15 @@
+============[ Multination ]============
+ Dazn:                                  No
+ HotStar:                               No
+ Disney+:                               No
+ Netflix:                               Yes (Region: US)
+ YouTube Premium:                       Yes
+ Amazon Prime Video:                    Yes (Region: US)
+ TVBAnywhere+:                          Yes
+ iQyi Oversea Region:                   US
+ Viu.com:                               No
+ YouTube CDN:                           San Francisco, CA 
+ Netflix Preferred CDN:                 Associated with [Nato Research] in [Los Angeles, CA ]
+ Spotify Registration:                  No
+ Steam Currency:                        USD
+=======================================

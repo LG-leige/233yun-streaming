@@ -1,0 +1,15 @@
+============[ Multination ]============
+ Dazn:                                  No
+ HotStar:                               No
+ Disney+:                               No
+ Netflix:                               Originals Only
+ YouTube Premium:                       Yes (Region: DE)
+ Amazon Prime Video:                    Yes (Region: DE)
+ TVBAnywhere+:                          Yes
+ iQyi Oversea Region:                   DE
+ Viu.com:                               No
+ YouTube CDN:                           Frankfurt 
+ Netflix Preferred CDN:                 Frankfurt  
+ Spotify Registration:                  No
+ Steam Currency:                        EUR
+=======================================

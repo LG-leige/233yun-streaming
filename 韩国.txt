@@ -1,0 +1,15 @@
+============[ Multination ]============
+ Dazn:                                  No
+ HotStar:                               No
+ Disney+:                               No
+ Netflix:                               Originals Only
+ YouTube Premium:                       Yes (Region: KR)
+ Amazon Prime Video:                    Yes (Region: KR)
+ TVBAnywhere+:                          Yes
+ iQyi Oversea Region:                   KR
+ Viu.com:                               No
+ YouTube CDN:                           Tokyo 
+ Netflix Preferred CDN:                 Associated with [Telxius Cable Argentina S.A.] in [Barranquilla ]
+ Spotify Registration:                  No
+ Steam Currency:                        KRW
+=======================================

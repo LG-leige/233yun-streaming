@@ -1,0 +1,15 @@
+============[ Multination ]============
+ Dazn:                                  No
+ HotStar:                               No
+ Disney+:                               No
+ Netflix:                               Originals Only
+ YouTube Premium:                       Yes (Region: JP)
+ Amazon Prime Video:                    Yes (Region: JP)
+ TVBAnywhere+:                          Yes
+ iQyi Oversea Region:                   JP
+ Viu.com:                               No
+ YouTube CDN:                           Tokyo 
+ Netflix Preferred CDN:                 Tokyo  
+ Spotify Registration:                  No
+ Steam Currency:                        JPY
+=======================================

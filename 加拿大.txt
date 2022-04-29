@@ -1,0 +1,15 @@
+============[ Multination ]============
+ Dazn:                                  No
+ HotStar:                               No
+ Disney+:                               No
+ Netflix:                               Originals Only
+ YouTube Premium:                       Yes (Region: CA)
+ Amazon Prime Video:                    Yes (Region: CA)
+ TVBAnywhere+:                          Yes
+ iQyi Oversea Region:                   CA
+ Viu.com:                               No
+ YouTube CDN:                           Toronto, ON 
+ Netflix Preferred CDN:                 Washington DC  
+ Spotify Registration:                  No
+ Steam Currency:                        CAD
+=======================================

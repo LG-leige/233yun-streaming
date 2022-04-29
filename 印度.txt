@@ -1,0 +1,15 @@
+============[ Multination ]============
+ Dazn:                                  No
+ HotStar:                               No
+ Disney+:                               No
+ Netflix:                               Originals Only
+ YouTube Premium:                       Yes (Region: IN)
+ Amazon Prime Video:                    Yes (Region: IN)
+ TVBAnywhere+:                          Yes
+ iQyi Oversea Region:                   IN
+ Viu.com:                               No
+ YouTube CDN:                           Chennai (Madras) 
+ Netflix Preferred CDN:                 Associated with [Airtel] in [Bangalore ]
+ Spotify Registration:                  No
+ Steam Currency:                        INR
+=======================================

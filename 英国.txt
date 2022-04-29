@@ -1,0 +1,15 @@
+============[ Multination ]============
+ Dazn:                                  No
+ HotStar:                               No
+ Disney+:                               No
+ Netflix:                               Originals Only
+ YouTube Premium:                       Yes (Region: GB)
+ Amazon Prime Video:                    Yes (Region: GB)
+ TVBAnywhere+:                          Yes
+ iQyi Oversea Region:                   GB
+ Viu.com:                               No
+ YouTube CDN:                           Amsterdam 
+ Netflix Preferred CDN:                 London  
+ Spotify Registration:                  No
+ Steam Currency:                        GBP
+=======================================

@@ -1,0 +1,15 @@
+============[ Multination ]============
+ Dazn:                                  Yes (Region: MO)
+ HotStar:                               No
+ Disney+:                               No
+ Netflix:                               Yes (Region: HK)
+ YouTube Premium:                       No  (Region: CN) 
+ Amazon Prime Video:                    Yes (Region: MO)
+ TVBAnywhere+:                          Yes
+ iQyi Oversea Region:                   MO
+ Viu.com:                               No
+ YouTube CDN:                           Associated with [CTM]
+ Netflix Preferred CDN:                 Associated with [Netvigator] in [Macau]
+ Spotify Registration:                  Yes (Region: MO)
+ Steam Currency:                        USD
+=======================================

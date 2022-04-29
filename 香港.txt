@@ -1,0 +1,15 @@
+============[ Multination ]============
+ Dazn:                                  Yes (Region: HK)
+ HotStar:                               No
+ Disney+:                               Yes (Region: HK)
+ Netflix:                               Yes (Region: HK)
+ YouTube Premium:                       Yes (Region: HK)
+ Amazon Prime Video:                    Unsupported
+ TVBAnywhere+:                          No
+ iQyi Oversea Region:                   HK
+ Viu.com:                               Yes (Region: HK)
+ YouTube CDN:                           Hong Kong 
+ Netflix Preferred CDN:                 Hong Kong  
+ Spotify Registration:                  Yes (Region: HK)
+ Steam Currency:                        HKD
+=======================================
